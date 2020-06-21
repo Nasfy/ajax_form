@@ -26,13 +26,3 @@ $("#sendButton").on("click", function () {
         }
     });
 });
-
-/*
-username emil phone message
-create table ajax_form (
-    username char(20),
-    email char(30),
-    phone varchar(15),
-    message tinytext
-);
-*/
